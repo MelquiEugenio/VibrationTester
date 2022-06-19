@@ -240,6 +240,7 @@ class VibrationTesterActivity : AppCompatActivity() {
             if (showBottomAd != null) showBottomAd!!.cancel()
             loadAds!!.cancel()
 
+
             if (vib.hasVibrator()) {
                 if (!isNotVibrating) {
                     vib.cancel()
