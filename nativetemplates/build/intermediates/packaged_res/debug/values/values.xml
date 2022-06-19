@@ -34,6 +34,6 @@
         <item name="colorControlNormal">@android:color/holo_green_light</item>
     </style>
     <declare-styleable name="gnt_template_view">
-    <attr format="reference" name="gnt_template_type"/>
-  </declare-styleable>
+        <attr format="reference" name="gnt_template_type"/>
+    </declare-styleable>
 </resources>

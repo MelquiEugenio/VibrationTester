@@ -40,10 +40,10 @@ class VibrationTesterActivity : AppCompatActivity() {
     private var showTopAd: Job? = null
     private var showBottomAd: Job? = null
 
-    private val topNativeAdUnitID: String = "ca-app-pub-2019856840997362/9485061409"
-    private val bottomNativeAdUnitID: String = "ca-app-pub-2019856840997362/2347973263"
-    //private val topNativeAdUnitID: String = "ca-app-pub-3940256099942544/2247696110"
-    //private val bottomNativeAdUnitID: String = "ca-app-pub-3940256099942544/1044960115"
+    //private val topNativeAdUnitID: String = "ca-app-pub-2019856840997362/9485061409"
+    //private val bottomNativeAdUnitID: String = "ca-app-pub-2019856840997362/2347973263"
+    private val topNativeAdUnitID: String = "ca-app-pub-3940256099942544/2247696110"
+    private val bottomNativeAdUnitID: String = "ca-app-pub-3940256099942544/1044960115"
 
     private fun loadAds() {
         if (loadAds != null) loadAds!!.cancel()
@@ -69,7 +69,7 @@ class VibrationTesterActivity : AppCompatActivity() {
                 showTopAd()
             } else {
                 top_native_banner.visibility = View.VISIBLE
-                showTopAd!!.cancel()
+                if (showTopAd != null) showTopAd!!.cancel()
             }
         }
         showTopAd!!.start()
@@ -83,7 +83,7 @@ class VibrationTesterActivity : AppCompatActivity() {
                 showBottomAd()
             } else {
                 bottom_native_banner.visibility = View.VISIBLE
-                showBottomAd!!.cancel()
+                if (showBottomAd != null) showBottomAd!!.cancel()
             }
         }
         showBottomAd!!.start()
@@ -236,7 +236,10 @@ class VibrationTesterActivity : AppCompatActivity() {
         super.onPause()
 
         lifecycleScope.launch {
+            if (showTopAd != null) showTopAd!!.cancel()
+            if (showBottomAd != null) showBottomAd!!.cancel()
             loadAds!!.cancel()
+
             if (vib.hasVibrator()) {
                 if (!isNotVibrating) {
                     vib.cancel()
@@ -251,7 +254,10 @@ class VibrationTesterActivity : AppCompatActivity() {
         super.onStop()
 
         lifecycleScope.launch {
+            if (showTopAd != null) showTopAd!!.cancel()
+            if (showBottomAd != null) showBottomAd!!.cancel()
             loadAds!!.cancel()
+
             if (vib.hasVibrator()) {
                 if (!isNotVibrating) {
                     vib.cancel()
