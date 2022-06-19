@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\3ca15131adb5d1df7b1860103404d3dd\\transformed\\core-1.7.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    }
+]

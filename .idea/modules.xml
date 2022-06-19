@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VibrationTester.iml" filepath="$PROJECT_DIR$/.idea/modules/VibrationTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/VibrationTester.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/VibrationTester.nativetemplates.unitTest.iml" />
+    </modules>
+  </component>
+</project>

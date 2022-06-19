@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\interpolator\\fast_out_slow_in.xml",
+        "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\interpolator\\fast_out_slow_in.xml"
+    }
+]

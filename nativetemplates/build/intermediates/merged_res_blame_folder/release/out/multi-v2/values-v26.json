@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Carlos Eugenio\\Documents\\Private\\VibrationTester\\nativetemplates\\build\\intermediates\\merged_res\\release\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Carlos Eugenio\\.gradle\\caches\\transforms-3\\e59b606b778ec1e0b04a4e1a45389e6e\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        }
+    ]
+}

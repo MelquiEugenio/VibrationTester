@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205807486944",
+    "project_id": "vibration-tester",
+    "storage_bucket": "vibration-tester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205807486944:android:7c40ea5e37fef1d37e4d85",
+        "android_client_info": {
+          "package_name": "com.MelquiApps.vibration_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205807486944-8siu94do27vvv1p3fakchmtbh6ksn3rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOauKDQKfS4jP9gIA3ynrBK_tYwDwSmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205807486944-8siu94do27vvv1p3fakchmtbh6ksn3rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

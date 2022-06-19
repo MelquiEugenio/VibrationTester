@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="gnt_RatingBar" parent="TextAppearance.AppCompat">
+        <item name="colorControlActivated">@android:color/holo_orange_dark</item>
+        <item name="colorControlNormal">@android:color/holo_green_light</item>
+    </style>
+
+</resources>
