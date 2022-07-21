@@ -85,8 +85,8 @@ class AppOpenManager(
         get() = appOpenAd != null && wasLoadTimeLessThanNHoursAgo()
 
     companion object {
-        //private const val AD_UNIT_ID = "ca-app-pub-2019856840997362/9703455777"
-        private const val AD_UNIT_ID = "ca-app-pub-3940256099942544/3419835294"
+        private const val AD_UNIT_ID = "ca-app-pub-2019856840997362/9703455777"
+        //private const val AD_UNIT_ID = "ca-app-pub-3940256099942544/3419835294"
     }
 
     private var isShowingAd = false
